@@ -32,6 +32,9 @@ print("Cadastrar Cliente...")
 '''
 
 # esse é o projeto correto
+
+
+# chama a mirla 
 print('Hello world!')
 
 # input('Precione o Enter para sair...')
